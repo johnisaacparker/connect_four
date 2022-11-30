@@ -1,5 +1,5 @@
 # connect_four
-#Play my Python Connect Four game!
+Play my Python Connect Four game!
 import numpy as np
 ROW_COUNT = 6
 COL_COUNT = 7
